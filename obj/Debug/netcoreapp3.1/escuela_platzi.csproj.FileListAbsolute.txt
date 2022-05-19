@@ -1,0 +1,8 @@
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.csproj.AssemblyReference.cache
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.AssemblyInfoInputs.cache
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.AssemblyInfo.cs
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.RazorAssemblyInfo.cache
+C:\Users\oem\source\repos\escuela_platzi\obj\Debug\netcoreapp3.1\escuela_platzi.RazorAssemblyInfo.cs
